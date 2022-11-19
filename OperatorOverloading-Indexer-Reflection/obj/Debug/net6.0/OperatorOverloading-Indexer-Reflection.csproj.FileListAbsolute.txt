@@ -1,0 +1,15 @@
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\bin\Debug\net6.0\OperatorOverloading-Indexer-Reflection.exe
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\bin\Debug\net6.0\OperatorOverloading-Indexer-Reflection.deps.json
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\bin\Debug\net6.0\OperatorOverloading-Indexer-Reflection.runtimeconfig.json
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\bin\Debug\net6.0\OperatorOverloading-Indexer-Reflection.dll
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\bin\Debug\net6.0\OperatorOverloading-Indexer-Reflection.pdb
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\obj\Debug\net6.0\OperatorOverloading-Indexer-Reflection.csproj.AssemblyReference.cache
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\obj\Debug\net6.0\OperatorOverloading-Indexer-Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\obj\Debug\net6.0\OperatorOverloading-Indexer-Reflection.AssemblyInfoInputs.cache
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\obj\Debug\net6.0\OperatorOverloading-Indexer-Reflection.AssemblyInfo.cs
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\obj\Debug\net6.0\OperatorOverloading-Indexer-Reflection.csproj.CoreCompileInputs.cache
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\obj\Debug\net6.0\OperatorOverloading-Indexer-Reflection.dll
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\obj\Debug\net6.0\refint\OperatorOverloading-Indexer-Reflection.dll
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\obj\Debug\net6.0\OperatorOverloading-Indexer-Reflection.pdb
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\obj\Debug\net6.0\OperatorOverloading-Indexer-Reflection.genruntimeconfig.cache
+C:\Users\novra\OneDrive\Desktop\OperatorOverloading-Indexer-Reflection\OperatorOverloading-Indexer-Reflection\obj\Debug\net6.0\ref\OperatorOverloading-Indexer-Reflection.dll
